@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SustituyeAsignaAtributoPorDatabaseAttributes": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\josea\\Desktop\\Tracasa\\exportar\\F14RES_POLNO.tab.xml C:\\Users\\josea\\Desktop\\Tracasa\\exportar\\F14RES_POLNO_modificado.tab.xml"
+    }
+  }
+}
